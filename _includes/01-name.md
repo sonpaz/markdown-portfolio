@@ -1,6 +1,1 @@
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+" This is a header"
